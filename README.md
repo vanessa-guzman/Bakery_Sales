@@ -13,6 +13,6 @@
 * Used pivot tables to provide a list of the 5 highest and the 5 lowest selling items by month 
 * Created visualizations that demonstrated monthly changes 
 
-**Deliverable:** A report was created on the final sheet of the [workbook in this repository]()
+**Deliverable:** A report was created on the final sheet of the [workbook in this repository](https://github.com/vanessa-guzman/Bakery_Sales/blob/main/Bakery_Sales.xlsx)
 
 
